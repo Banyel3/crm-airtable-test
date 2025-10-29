@@ -3,4 +3,5 @@ django-ninja>=1.1.0
 django-cors-headers>=4.3.0
 python-dotenv>=1.0.0
 requests>=2.31.0
-pyairtable
+pyairtable>=2.1.0
+zoho-crm-python-sdk
